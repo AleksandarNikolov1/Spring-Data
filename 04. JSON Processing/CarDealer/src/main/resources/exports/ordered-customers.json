@@ -1,0 +1,5346 @@
+[
+  {
+    "Id": 29,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.1,
+        "Car": {
+          "Id": 42,
+          "Make": "Fiat",
+          "Model": "500 (2007) Abarth 695 Tributo Maserati",
+          "TravelledDistance": 214747
+        }
+      },
+      {
+        "discount": 0.05,
+        "Car": {
+          "Id": 320,
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 2147647
+        }
+      }
+    ]
+  },
+  {
+    "Id": 59,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 89,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 119,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 149,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 179,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 209,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 239,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 269,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 299,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 329,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 359,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 389,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 419,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 449,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 479,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 509,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 539,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 569,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 599,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 629,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 659,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 689,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 719,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 28,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.45,
+        "Car": {
+          "Id": 94,
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 922337775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 58,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 88,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 118,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 148,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 178,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 208,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 238,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 268,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 298,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 328,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 358,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 388,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 418,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 448,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 478,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 508,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 538,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 568,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 598,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 628,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 658,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 688,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 718,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 17,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 47,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 77,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 107,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 137,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 167,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 197,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 227,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 257,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 287,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 317,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 347,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 377,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 407,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 437,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 467,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 497,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 527,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 557,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 587,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 617,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 647,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 677,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 707,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 16,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 46,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 76,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 106,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 136,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 166,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 196,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 226,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 256,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 286,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 316,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 346,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 376,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 406,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 436,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 466,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 496,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 526,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 556,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 586,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 616,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 646,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 676,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 706,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 27,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 57,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 87,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 117,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 147,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 177,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 207,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 237,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 267,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 297,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 327,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 357,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 387,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 417,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 447,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 477,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 507,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 537,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 567,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 597,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 627,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 657,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 687,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 717,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 8,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 38,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 68,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 98,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 128,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 158,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 188,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 218,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 248,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 278,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 308,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 338,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 368,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 398,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 428,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 458,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 488,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 518,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 548,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 578,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 608,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 638,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 668,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 698,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 10,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.15,
+        "Car": {
+          "Id": 268,
+          "Make": "Peugeot",
+          "Model": "306",
+          "TravelledDistance": 2036854775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 40,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 70,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 100,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 130,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 160,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 190,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 220,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 250,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 280,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 310,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 340,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 370,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 400,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 430,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 460,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 490,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 520,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 550,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 580,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 610,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 640,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 670,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 700,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 11,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 41,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 71,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 101,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 131,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 161,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 191,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 221,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 251,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 281,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 311,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 341,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 371,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 401,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 431,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 461,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 491,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 521,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 551,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 581,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 611,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 641,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 671,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 701,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 14,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.45,
+        "Car": {
+          "Id": 84,
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 2147
+        }
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 74,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 104,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 134,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 164,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 194,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 224,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 254,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 284,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 314,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 344,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 374,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 404,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 434,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 464,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 494,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 524,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 554,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 584,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 614,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 644,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 674,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 704,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 15,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.4,
+        "Car": {
+          "Id": 37,
+          "Make": "BMW",
+          "Model": "F04",
+          "TravelledDistance": 483647
+        }
+      }
+    ]
+  },
+  {
+    "Id": 45,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 75,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 105,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 135,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 165,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 195,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 225,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 255,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 285,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 315,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 345,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 375,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 405,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 435,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 465,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 495,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 525,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 555,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 585,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 615,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 645,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 675,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 705,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 26,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 56,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 86,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 116,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 146,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 176,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 206,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 236,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 266,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 296,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 326,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 356,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 386,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 416,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 446,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 476,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 506,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 536,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 566,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 596,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 626,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 656,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 686,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 716,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 4,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.05,
+        "Car": {
+          "Id": 136,
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        }
+      },
+      {
+        "discount": 0.2,
+        "Car": {
+          "Id": 258,
+          "Make": "Alfa Romeo",
+          "Model": "164",
+          "TravelledDistance": 92233775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.05,
+        "Car": {
+          "Id": 152,
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 954775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 64,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 94,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 124,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 154,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 184,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 214,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 244,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 274,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 304,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 334,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 364,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 394,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 424,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 454,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 484,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 514,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 544,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 574,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 604,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 634,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 664,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 694,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 25,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.1,
+        "Car": {
+          "Id": 187,
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 92233720375807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 55,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.0,
+        "Car": {
+          "Id": 281,
+          "Make": "Peugeot",
+          "Model": "306",
+          "TravelledDistance": 2147483647
+        }
+      }
+    ]
+  },
+  {
+    "Id": 85,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 115,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 145,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 175,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 205,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 235,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 265,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 295,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 325,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 355,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 385,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 415,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 445,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 475,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 505,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 535,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 565,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 595,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 625,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 655,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 685,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 715,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 7,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.25,
+        "Car": {
+          "Id": 358,
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 213647
+        }
+      }
+    ]
+  },
+  {
+    "Id": 37,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 67,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 97,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 127,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 157,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 187,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 217,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 247,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 277,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 307,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 337,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 367,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 397,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 427,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 457,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 487,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 517,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 547,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 577,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 607,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 637,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 667,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 697,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 5,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 35,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 65,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 95,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 125,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 155,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 185,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 215,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 245,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 275,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 305,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 335,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 365,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 395,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 425,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 455,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 485,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 515,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 545,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 575,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 605,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 635,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 665,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 695,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 6,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 36,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 66,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 96,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 126,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 156,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 186,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 216,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 246,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 276,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 306,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 336,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 366,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 396,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 426,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 456,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 486,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 516,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 546,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 576,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 606,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 636,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 666,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 696,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 24,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.2,
+        "Car": {
+          "Id": 190,
+          "Make": "Renault",
+          "Model": "Espace",
+          "TravelledDistance": 9223375807
+        }
+      },
+      {
+        "discount": 0.1,
+        "Car": {
+          "Id": 157,
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 2147447
+        }
+      }
+    ]
+  },
+  {
+    "Id": 54,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 84,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 114,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 144,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 174,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 204,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 234,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 264,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 294,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 324,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 354,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 384,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 414,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 444,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 474,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 504,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 534,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 564,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 594,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 624,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 654,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 684,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 714,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 12,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.4,
+        "Car": {
+          "Id": 194,
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 92233854775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 42,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 72,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 102,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 132,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 162,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 192,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 222,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 252,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 282,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 312,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 342,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 372,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 402,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 432,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 462,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 492,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 522,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 552,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 582,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 612,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 642,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 672,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 702,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 13,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.15000000000000002,
+        "Car": {
+          "Id": 62,
+          "Make": "Mercedes",
+          "Model": "A 140",
+          "TravelledDistance": 92233754775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.2,
+        "Car": {
+          "Id": 211,
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 9223372034775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 73,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 103,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 133,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 163,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 193,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 223,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 253,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 283,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 313,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 343,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 373,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 403,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 433,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 463,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 493,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 523,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 553,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 583,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 613,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 643,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 673,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 703,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 2,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.4,
+        "Car": {
+          "Id": 63,
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 2147647
+        }
+      },
+      {
+        "discount": 0.1,
+        "Car": {
+          "Id": 222,
+          "Make": "Rolls-Royce",
+          "Model": "Wraith",
+          "TravelledDistance": 21647
+        }
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 62,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 92,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 122,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 152,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 182,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 212,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 242,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 272,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 302,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 332,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 362,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 392,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 422,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 452,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 482,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 512,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 542,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 572,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 602,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 632,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 662,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 692,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 3,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.1,
+        "Car": {
+          "Id": 113,
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 92235807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 33,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 63,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.15000000000000002,
+        "Car": {
+          "Id": 67,
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 92233754775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 93,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 123,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 153,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 183,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 213,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 243,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 273,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 303,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 333,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 363,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 393,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 423,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 453,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 483,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 513,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 543,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 573,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 603,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 633,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 663,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 693,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 19,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 30,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 49,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 60,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.05,
+        "Car": {
+          "Id": 257,
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 922337203685807
+        }
+      },
+      {
+        "discount": 0.1,
+        "Car": {
+          "Id": 313,
+          "Make": "Citroen",
+          "Model": "C8",
+          "TravelledDistance": 83647
+        }
+      }
+    ]
+  },
+  {
+    "Id": 79,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 90,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 109,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 120,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 139,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 150,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 169,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 180,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 199,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 210,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 229,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 240,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 259,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 270,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 289,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 300,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 319,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 330,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 349,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 360,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 379,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 390,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 409,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 420,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 439,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 450,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 469,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 480,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 499,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 510,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 529,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 540,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 559,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 570,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 589,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 600,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 619,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 630,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 649,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 660,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 679,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 690,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 709,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 720,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 21,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.45,
+        "Car": {
+          "Id": 81,
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 927
+        }
+      }
+    ]
+  },
+  {
+    "Id": 51,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.35,
+        "Car": {
+          "Id": 91,
+          "Make": "Ford",
+          "Model": "GT40",
+          "TravelledDistance": 92233775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 81,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 111,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 141,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 171,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 201,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 231,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 261,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 291,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 321,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 351,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 381,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 411,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 441,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 471,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 501,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 531,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 561,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 591,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 621,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 651,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 681,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 711,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 1,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 31,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "discount": 0.35,
+        "Car": {
+          "Id": 295,
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 922337204775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 61,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 91,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 121,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 151,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 181,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 211,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 241,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 271,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 301,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 331,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 361,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 391,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 421,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 451,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 481,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 511,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 541,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 571,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 601,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 631,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 661,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 691,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 20,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 50,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.0,
+        "Car": {
+          "Id": 246,
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 213647
+        }
+      }
+    ]
+  },
+  {
+    "Id": 80,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 110,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 140,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 170,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 200,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 230,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 260,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 290,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 320,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 350,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 380,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 410,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 440,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 470,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 500,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 530,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 560,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 590,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 620,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 650,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 680,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 710,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 23,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 53,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 83,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 113,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 143,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 173,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 203,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 233,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 263,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 293,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 323,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 353,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 383,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 413,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 443,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 473,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 503,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 533,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 563,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 593,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 623,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 653,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 683,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 713,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 18,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.1,
+        "Car": {
+          "Id": 88,
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 2143647
+        }
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 78,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 108,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 138,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 168,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 198,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 228,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 258,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 288,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 318,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 348,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 378,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 408,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 438,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 468,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 498,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 528,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 558,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 588,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 618,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 648,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 678,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 708,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 9,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 39,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 69,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 99,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 129,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 159,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 189,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 219,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 249,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 279,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 309,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 339,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 369,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 399,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 429,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 459,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 489,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 519,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 549,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 579,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 609,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 639,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 669,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 699,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 22,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.1,
+        "Car": {
+          "Id": 184,
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 2147483647
+        }
+      },
+      {
+        "discount": 0.0,
+        "Car": {
+          "Id": 17,
+          "Make": "Opel",
+          "Model": "Omega",
+          "TravelledDistance": 9223336854775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 52,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "discount": 0.5,
+        "Car": {
+          "Id": 323,
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 936854775807
+        }
+      }
+    ]
+  },
+  {
+    "Id": 82,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 112,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 142,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 172,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 202,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 232,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 262,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 292,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 322,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 352,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 382,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 412,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 442,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 472,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 502,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 532,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 562,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 592,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 622,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 652,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 682,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 712,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  }
+]

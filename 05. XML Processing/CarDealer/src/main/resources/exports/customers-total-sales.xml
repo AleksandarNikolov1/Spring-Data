@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer full-name="Oren Perlman" bought-cars="1" spent-money="1050.99"/>
+    <customer full-name="Taina Achenbach" bought-cars="2" spent-money="105.98"/>
+    <customer full-name="Brett Brickley" bought-cars="1" spent-money="104.99"/>
+    <customer full-name="Francis Mckim" bought-cars="1" spent-money="100.99"/>
+    <customer full-name="Jimmy Grossi" bought-cars="1" spent-money="100.99"/>
+    <customer full-name="Sylvie Mcelravy" bought-cars="1" spent-money="44.94"/>
+    <customer full-name="Cinthia Lasala" bought-cars="1" spent-money="0.40"/>
+</customers>
